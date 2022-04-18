@@ -1,0 +1,30 @@
+{
+    "name": "azizozk/wallet_address_validator",
+    "description": "Crypto wallet address validator.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "azizozk",
+            "email": "ahmet.ozkurt@inlineyazilim.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "WalletAddressValidator\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "WalletAddressValidator\\Test\\": "tests"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    },
+    "require": {
+        "ext-bcmath": "*",
+        "spomky-labs/cbor-php": "^2.0"
+    }
+}
