@@ -1,6 +1,6 @@
 ## Wallet Address Validator
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/azizozk/wallet-address-validator.svg?style=flat-square)](https://packagist.org/packagesazizozk/wallet-address-validator)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/azizozk/wallet-address-validator.svg?style=flat-square)](https://packagist.org/packages/azizozk/wallet-address-validator)
 [![Total Downloads](https://img.shields.io/packagist/dt/azizozk/wallet-address-validator.svg?style=flat-square)](https://packagist.org/packages/azizozk/wallet-address-validator)
 
 ### Supported Assets
