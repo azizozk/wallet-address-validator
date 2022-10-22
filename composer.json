@@ -1,6 +1,7 @@
 {
-    "name": "azizozk/wallet_address_validator",
+    "name": "azizozk/wallet-address-validator",
     "description": "Crypto wallet address validator.",
+    "keywords": ["crypto", "wallet", "address", "validator", "BTC", "USDT", "ETH", "LTC", "DOGE", "LINK", "ADA", "XRP"],
     "type": "library",
     "license": "MIT",
     "authors": [
